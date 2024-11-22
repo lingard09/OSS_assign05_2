@@ -1,0 +1,11 @@
+.col,
+.col-6 {
+  font-size: medium;
+  border: 1px solid rgb(252, 251, 251);
+}
+
+#t1 {
+  display: inline-block;
+  width: 80%;
+  margin-right: 2px;
+}
